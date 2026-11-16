@@ -1,0 +1,12 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ivory</item>
+        <item name="android:statusBarColor">@color/emerald</item>
+        <item name="android:navigationBarColor">@color/ivory</item>
+        <item name="android:colorPrimary">@color/emerald</item>
+        <item name="android:colorAccent">@color/gold</item>
+    </style>
+    <color name="ivory">#F7F4ED</color>
+    <color name="emerald">#164B3D</color>
+    <color name="gold">#C6A15B</color>
+</resources>
